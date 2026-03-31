@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-    xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0">
     <channel>
         <title>Sweety</title>
         <link>https://github.com/BBNB/Sweety</link>
         <description>Sweety 업데이트</description>
         <language>ko</language>
+        <item>
+            <title>Sweety 1.2.2</title>
+            <pubDate>Tue, 31 Mar 2026 06:16:21 +0000</pubDate>
+            <enclosure url="https://github.com/3482374979/Sweety/releases/download/v1.2.2/Sweety-1.2.2.dmg" sparkle:version="1" sparkle:shortVersionString="1.2.2" length="5206867" type="application/octet-stream" sparkle:edSignature="sparkle:edSignature=&quot;0F97RJHJupWQAXlLeXGlsgB2HkFNOWYzEqc4RxJLf1kX+hkhduQ/x3Hj7lHqFWJjP9yG0rQ0xCEqfyk3hdelDw==&quot; length=&quot;5206867&quot;" sparkle:minimumSystemVersion="26.3" />
+        </item>
     </channel>
 </rss>
