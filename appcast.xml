@@ -7,6 +7,11 @@
         <language>ko</language>
         <item>
             <title>Sweety 1.3.0</title>
+            <pubDate>Tue, 31 Mar 2026 06:56:12 +0000</pubDate>
+            <enclosure url="https://github.com/3482374979/Sweety/releases/download/v1.3.0/Sweety-1.3.0.dmg" sparkle:version="10300" sparkle:shortVersionString="1.3.0" length="5211500" type="application/octet-stream" sparkle:edSignature="nRfwf98uorPIXJVvYCpRH54jf3cirqj15fw/JLN5HN6ZODbrOiVMm6qQEn+W65nDvd76vfrtbPIxeWJf+hESBw==" sparkle:minimumSystemVersion="26.2" />
+        </item>
+        <item>
+            <title>Sweety 1.3.0</title>
             <pubDate>Tue, 31 Mar 2026 06:41:08 +0000</pubDate>
             <enclosure url="https://github.com/3482374979/Sweety/releases/download/v1.3.0/Sweety-1.3.0.dmg" sparkle:version="10300" sparkle:shortVersionString="1.3.0" length="5196092" type="application/octet-stream" sparkle:edSignature="5ZSuqw82vh6U4/skvEXhjf/s1dUTLQlUmEWfb2yQhkvB/sYpvyf1mePinU3o++Hl8OVT6z0CR5R9p/VproGgDA==" sparkle:minimumSystemVersion="26.2" />
         </item>
