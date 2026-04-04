@@ -6,6 +6,11 @@
         <description>Sweety 업데이트</description>
         <language>ko</language>
         <item>
+            <title>Sweety 3.7.0</title>
+            <pubDate>Sat, 04 Apr 2026 17:48:48 +0000</pubDate>
+            <enclosure url="https://github.com/3482374979/Sweety-Updates/releases/download/v3.7.0/Sweety-3.7.0.dmg" sparkle:version="30700" sparkle:shortVersionString="3.7.0" length="4344933" type="application/octet-stream" sparkle:edSignature="c2RqO793P/+IjxqHj53GyRSGiTCFVYuIJUVkSaze6URB3oCmrGurmst4ab1i2zIgP3n/6k3gltpDzwPwRODKCQ==" sparkle:minimumSystemVersion="26.2" />
+        </item>
+        <item>
             <title>Sweety 3.6.3</title>
             <pubDate>Sat, 04 Apr 2026 17:33:32 +0000</pubDate>
             <enclosure url="https://github.com/3482374979/Sweety-Updates/releases/download/v3.6.3/Sweety-3.6.3.dmg" sparkle:version="30603" sparkle:shortVersionString="3.6.3" length="4495795" type="application/octet-stream" sparkle:edSignature="ctIPRrdV6b0526zFANOW1SgSQGTEIJckQJ7wip+9TELcC313tZQH/VemJSjB6Lw+dgPNyVP2Rit84HDRYfCSAA==" sparkle:minimumSystemVersion="26.2" />
